@@ -14,7 +14,7 @@
         android:background="@drawable/close_icon"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_margin="20dp"/>
+        android:layout_margin="10dp"/>
 
     <TextView
         android:id="@+id/tv_q_q"
