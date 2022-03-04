@@ -13,5 +13,6 @@
     <color name="black2">#353535</color>
     <color name="bluetheme">#38b6ff</color>
     <color name="grey">#AAA4AA</color>
+    <color name="light_secondary_background">#423F3E</color>
 
 </resources>
